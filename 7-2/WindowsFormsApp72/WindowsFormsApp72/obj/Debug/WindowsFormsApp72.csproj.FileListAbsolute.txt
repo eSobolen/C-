@@ -1,0 +1,11 @@
+D:\5555\глава 7\7-2\WindowsFormsApp72\WindowsFormsApp72\bin\Debug\WindowsFormsApp72.exe.config
+D:\5555\глава 7\7-2\WindowsFormsApp72\WindowsFormsApp72\bin\Debug\WindowsFormsApp72.exe
+D:\5555\глава 7\7-2\WindowsFormsApp72\WindowsFormsApp72\bin\Debug\WindowsFormsApp72.pdb
+D:\5555\глава 7\7-2\WindowsFormsApp72\WindowsFormsApp72\obj\Debug\WindowsFormsApp72.csprojAssemblyReference.cache
+D:\5555\глава 7\7-2\WindowsFormsApp72\WindowsFormsApp72\obj\Debug\WindowsFormsApp72.Properties.Resources.resources
+D:\5555\глава 7\7-2\WindowsFormsApp72\WindowsFormsApp72\obj\Debug\WindowsFormsApp72.csproj.GenerateResource.cache
+D:\5555\глава 7\7-2\WindowsFormsApp72\WindowsFormsApp72\obj\Debug\WindowsFormsApp72.csproj.CoreCompileInputs.cache
+D:\5555\глава 7\7-2\WindowsFormsApp72\WindowsFormsApp72\obj\Debug\WindowsFormsApp72.exe
+D:\5555\глава 7\7-2\WindowsFormsApp72\WindowsFormsApp72\obj\Debug\WindowsFormsApp72.pdb
+D:\5555\глава 7\7-2\WindowsFormsApp72\WindowsFormsApp72\obj\Debug\WindowsFormsApp72.Form1.resources
+D:\5555\глава 7\7-2\WindowsFormsApp72\WindowsFormsApp72\obj\Debug\WindowsFormsApp72.Form2.resources
